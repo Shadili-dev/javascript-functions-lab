@@ -1,4 +1,4 @@
-const { createLoginTracker } = require('./index.js');
+const { createLoginTracker } = require('../index.js');
 
 describe('createLoginTracker', () => {
   test('should return a function', () => {
